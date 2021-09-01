@@ -275,6 +275,7 @@ function App() {
             <div>
 
                 <UserDetails user={selectedUser}/>
+                <div>LOL</div>
 
             </div>
         </div>
